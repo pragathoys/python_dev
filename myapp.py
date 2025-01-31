@@ -1,4 +1,4 @@
-def call_name():
+def call_func():
   print("New file")
 
-call_name()
+call_func()
